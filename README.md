@@ -28,7 +28,8 @@ Sample predictions with confidence shown using matplotlib
 2.Open the notebook: jupyter notebook potato_leaf_disorder_prediction.ipynb
 3.Follow the notebook steps to train or test the model.
 
-Sample Output 
+Sample Output <img width="1180" height="1232" alt="image" src="https://github.com/user-attachments/assets/474d5599-d053-4504-98a5-f7e07c7fb8a4" />
+
 
 
 
