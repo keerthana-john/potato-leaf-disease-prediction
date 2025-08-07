@@ -21,12 +21,15 @@ Includes:
 📈 Results
 Test Accuracy: 97.43%
 Test Loss: 0.1590
-Sample predictions with confidence shown using matplotlib
+Sample predictions with confidence shown using matplotlib <img width="676" height="680" alt="image" src="https://github.com/user-attachments/assets/12d7a091-9e51-46d1-bbfb-a1b5e7ca8aad" />
+
+
 
 ▶️ How to Run
 1.Clone the repository: git clone https://github.com/YOUR_USERNAME/potato-leaf-disease-prediction.git
 2.Open the notebook: jupyter notebook potato_leaf_disorder_prediction.ipynb
 3.Follow the notebook steps to train or test the model.
+
 
 Sample Output <img width="1180" height="1232" alt="image" src="https://github.com/user-attachments/assets/474d5599-d053-4504-98a5-f7e07c7fb8a4" />
 
