@@ -1,2 +1,2 @@
 # potato-leaf-disorder-prediction
-Predicting potato leaf disorders using CNN in TensorFlow
+Predicting potato leaf diseases using CNN in TensorFlow
