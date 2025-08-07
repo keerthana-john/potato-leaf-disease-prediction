@@ -1,5 +1,7 @@
 🥔 Potato Leaf Disease Prediction using CNN
 This project aims to detect and classify diseases in potato leaves using Convolutional Neural Networks (CNN) in TensorFlow. The model helps in early identification of common potato leaf diseases, which can assist farmers and researchers in applying the right treatment at the right time.
+
+
 📌Problem Statement
 Potato plants are susceptible to various leaf diseases that can significantly impact crop yield. Manual inspection is time-consuming and error-prone. This project builds an AI-based image classification system to automate the process.
 
@@ -11,12 +13,14 @@ Categories:
 3.Healthy
 The dataset is split into training, validation, and testing sets.
 
+
 🧠 Model Architecture
 Developed using TensorFlow Keras Sequential API
 Includes:
 1.Data preprocessing and augmentation.
 2.Multiple convolutional and max-pooling layers.
 3.Dense layer with softmax for multiclass classification.
+
 
 📈 Results
 Test Accuracy: 97.43%
